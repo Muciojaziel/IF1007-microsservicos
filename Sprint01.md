@@ -13,7 +13,7 @@
 * Planejamento do projeto
 ## Planejamento da Sprint 01
 | Ação | Responsável(eis) | Detalhes |
-|----------|----------|
+|----------|----------|----------| 
 | Criação do Projeto no Git | Time | |
 | Definição do que vai ser feito no projeto | Time | |
 | Definição das ferramentas a serem usadas no projeto | Time | |
