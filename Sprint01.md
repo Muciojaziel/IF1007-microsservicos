@@ -32,13 +32,7 @@
 | Escolha da metodologia de desenvolvimento | Time | Pair e Peer Programing, com possível kanban, somado ao Scrum|
 | Planejamento dos dias de reunião presencial| Time | No dia do desenvolvimento, no início e ao final, para fazer métricas de desenvolvimento e se planejamento está de acordo |
 | Planejamento dos dias de desenvolvimento | Time | 1 dia por final  de semana, caso necessário, ambos |
-## Realizadas não planejadas na Sprint 01
-| Ação | Responsável(eis) |
-|----------|----------|----------|
-| Divisão de tarefas | Time | Detalhes |
-## Não realizadas na Sprint
-| Ação | Responsável(eis) | Detalhes |
-|----------|----------|----------|
+
 ## Em andamento 
 | Ação | Responsável(eis) | Detalhes |
 |----------|----------|----------|
